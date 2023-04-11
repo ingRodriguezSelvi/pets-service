@@ -1,5 +1,5 @@
 {
-  "name": "hexagonal-architecture-typescript-service-skeleton",
+  "name": "pets-services-skeleton",
   "version": "1.0.0",
   "description": "Skeleton for new typescript services based on hexagonal architecture",
   "main": "src/index.js",
@@ -17,23 +17,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlbertHernandez/hexagonal-architecture-typescript-service-skeleton.git"
+    "url": "git+https://github.com/ingRodriguezSelvi/pets-service"
   },
   "keywords": [
     "typescript",
     "hexagonal architecture",
     "skeleton"
   ],
-  "author": "alberthernandezdev@gmail.com",
+  "author": "ing.rodriguez.selvi@gmail.com",
   "license": "MIT",
   "engines": {
     "node": ">=18.0.0",
     "npm": ">=9.3.0"
   },
   "bugs": {
-    "url": "https://github.com/AlbertHernandez/hexagonal-architecture-typescript-service-skeleton/issues"
+    "url": "https://github.com/ingRodriguezSelvi/pets-service"
   },
-  "homepage": "https://github.com/AlbertHernandez/hexagonal-architecture-typescript-service-skeleton#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.4.2",
     "@commitlint/config-conventional": "^17.4.2",
